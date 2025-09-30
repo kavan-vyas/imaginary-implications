@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Implications of the Imaginary"
+date: 2025-09-30
+categories: mathematics
+---
+
 # # Implications of the Imaginary
 
  Imaginary numbers are a sight to behold.

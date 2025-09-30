@@ -50,11 +50,7 @@ As the nature of the question contradicts itself which leads to disproof through
 
 But philosophically thinking to exist is to have meaning in the world and the imaginary unit has most definitely it has a meaning. 
 
-The imaginary unit was first invented by…
-
-to solve the problem of…
-
-therefore, $i$  has a meaning 
+The imaginary unit was first used by an Italian mathematician: Gerolamo Cardano; who was the  first to introduce complex numbers to solve cubic equations in the 16th century.
 
 Often after much deliberation most people come to the final conclusion that they both exist equally and have meaning in their own respective sense (philosophically). 
 

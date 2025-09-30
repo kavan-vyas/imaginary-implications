@@ -1,0 +1,9 @@
+title: Implications of the Imaginary
+description: Exploring complex numbers and their mathematical beauty
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
